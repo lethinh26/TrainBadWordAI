@@ -1,0 +1,4 @@
+nltk==3.9.1
+scikit-learn==1.7.1
+sentence-transformers==5.0.0
+RapidFuzz==3.13.0
